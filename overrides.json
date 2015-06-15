@@ -1,5 +1,5 @@
 {
-  "jquery.tabbable-original": {
+  "jQuery.tabbable": {
     "main": [
       "jquery.tabbable.js"
     ]
