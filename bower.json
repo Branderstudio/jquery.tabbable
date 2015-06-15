@@ -6,6 +6,6 @@
   ],
   "ignore": [],
   "dependencies": {
-    "jquery.tabbable-original": "*"
+    "jQuery.tabbable": "*"
   }
 }
